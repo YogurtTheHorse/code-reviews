@@ -77,4 +77,4 @@ public IEnumerator<MovieShow> GetEnumerator() => _list.GetEnumerator;
 public IEnumerator IEnumerable.GetEnumerator() => _list.GetEnumerator;
 ```
 
-[1: https://msdn.microsoft.com/en-us/library/336aedhh(v=vs.100).aspx
+[1]: https://msdn.microsoft.com/en-us/library/336aedhh(v=vs.100).aspx
